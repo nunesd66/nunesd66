@@ -1,11 +1,16 @@
 # Saudações, sou Daniel Nunes!
 
 ### Um breve resumo
-- Formado em Análise de Sistemas de Computação - FCC;
-- 3 anos de experiência;
-- Comunicativo, perfil colaborativo;
+- Formado em Análise de Sistemas de Computação - FCC (2018 até 2020);
+- 3 anos de experiência como programador FullStack;
+- Comunicativo e perfil colaborativo;
 - Crítico orientado para soluções;
-- Preocupado com experiência do usuário e performance.
+- Preocupado com a experiência do usuário e performance.
+
+### Foco profissional
+- Trabalhar como programador web FullStack ou em uma das stacks;
+- Freelancer, CLT ou PJ, com disponibilidade de horário;
+- Procuro um ambiente ao qual eu possa evoluir e compartilhar conhecimentos.
 
 ### Contatos
 <div style="display: inline_block">
@@ -17,26 +22,10 @@
   </a>
 </div>
 
-## Sistemas familiarizados
+<br>
+<br>
 
-<div style="display: inline_block">
-  <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
-  <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-
-## Tecnologias que gostei muito (e não usei profissionalmente)
-<div style="display: inline_block">
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="thymeleaf" src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" />
-  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
-## Tecnologias que uso no Trabalho
+## Tecnologias com experiência profissional
 
 ### back-end
 <div style="display: inline_block">
@@ -59,10 +48,46 @@
 ### banco de dados
 <div style="display: inline_block">
   <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ### testes
 <div style="display: inline_block">
   <img align="center" alt="eslint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
   <img align="center" alt="sonarlint" src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white" />
+</div>
+
+<br>
+<br>
+
+## Sistemas familiarizados
+
+<div style="display: inline_block">
+  <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
+  <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+<br>
+<br>
+
+## Tecnologias familiarizadas
+<div style="display: inline_block">
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="thymeleaf" src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" />
+  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+<br>
+<br>
+
+## Referências
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/company/pacta-solu%C3%A7%C3%B5es-tecnol%C3%B3gicas/">
+    <img align="center" alt="postgresql" src="https://img.shields.io/badge/-PACTA_SOLUCOES_TECNOLOGICAS-017AD7?logoColor=red&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/artlogsolutions/?hl=pt-br">
+    <img align="center" alt="postgresql" src="https://img.shields.io/badge/-ARTLOG_SOLUTIONS-017AD7?logoColor=white&style=for-the-badge" />
+  </a>
 </div>
