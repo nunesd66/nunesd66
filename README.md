@@ -2,6 +2,7 @@
 
 ### Um breve resumo
 - Formado em Análise de Sistemas de Computação - FCC;
+- 3 anos de experiência;
 - Comunicativo, perfil colaborativo;
 - Crítico orientado para soluções;
 - Preocupado com experiência do usuário e performance.
